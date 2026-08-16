@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "label": "قناة واتساب",
+    "url": "https://whatsapp.com/channel/0029VbBbvWcJ3jv1T55BmR0f",
+    "type": "whatsapp"
+  },
+  "group": {
+    "label": "الجروب الأساسي",
+    "url": "https://chat.whatsapp.com/BR3vHZUaLjy1qwhS3ttQpJ?s=cl&p=a&ilr=1",
+    "type": "whatsapp"
+  },
+  "telegram": {
+    "label": "تيليجرام",
+    "url": "https://t.me/br_kan242",
+    "type": "telegram"
+  },
+  "youtube": {
+    "label": "يوتيوب",
+    "url": "https://youtube.com/@oracle_soft-1?si=NQXfvUay8ZvzBBzB",
+    "type": "youtube"
+  }
+}

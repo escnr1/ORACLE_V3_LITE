@@ -1,0 +1,61 @@
+{
+  "name": "oracle-v3",
+  "version": "3.0.0",
+  "description": "𝐎𝐑𝐀𝐂𝐋𝐄 𝐕𝟑 - WhatsApp Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "ORACLE-V3"
+  ],
+  "author": "⏤͟͟͞𝐓𝐇𝐄 𝐅𝐎𝐔𝐑 𝐋𝐎𝐑𝐃𝐒☀︎",
+  "license": "MIT",
+  "dependencies": {
+    "awesome-phonenumber": "^7.2.0",
+    "axios": "^1.7.3",
+    "chalk": "^5.3.0",
+    "cheerio": "1.0.0-rc.12",
+    "entities": "^6.0.1",
+    "chokidar": "^5.0.0",
+    "discord.js": "^14.26.4",
+    "drakon": "1.0.2",
+    "file-type": "^18.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.5",
+    "formdata-node": "^6.0.3",
+    "got": "^13.0.0",
+    "googleapis": "^140.0.0",
+    "jimp": "^0.22.12",
+    "jsdom": "^24.1.0",
+    "mathjs": "^13.0.3",
+    "moment-timezone": "^0.5.45",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "archiver": "^7.0.1",
+    "axios-cookiejar-support": "^5.0.3",
+    "btch-downloader": "^6.0.27",
+    "gtts": "^0.2.1",
+    "mime-types": "^2.1.35",
+    "node-cron": "^3.0.3",
+    "node-webpmux": "^3.1.7",
+    "qrcode": "^1.5.4",
+    "ssh2": "^1.15.0",
+    "tough-cookie": "^4.1.4",
+    "yt-search": "^2.11.0",
+    "mongoose": "^8.4.0",
+    "node-fetch": "^3.3.2",
+    "pino": "^9.2.0",
+    "qs": "*",
+    "sharp": "https://github.com/moreand458-eng/sharp/tarball/main",
+    "wa-sticker-formatter": "^4.3.2"
+  },
+  "overrides": {
+    "sharp": "https://github.com/moreand458-eng/sharp/tarball/main",
+    "*": {
+      "sharp": "https://github.com/moreand458-eng/sharp/tarball/main"
+    }
+  }
+}
