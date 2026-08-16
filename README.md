@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ESCANOR%20V3&fontSize=70&fontColor=00fff2&fontAlignY=38&desc=البوت%20السيبراني%20الأقوى%20على%20واتساب&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-
-<a href="https://github.com/moreand458-eng/drakon">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=26&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&width=650&lines=%E2%9A%A1+%D9%85%D8%A8%D9%86%D9%8A+%D8%B9%D9%84%D9%89+%D8%A5%D8%B7%D8%A7%D8%B1+%D8%B9%D9%85%D9%84+DRAKON;%F0%9F%94%98+%D9%82%D8%A7%D8%A6%D9%85%D8%A9+%D8%A3%D8%B2%D8%B1%D8%A7%D8%B1+%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A%D8%A9+%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%8A%D9%83%D9%8A%D8%A9;%F0%9F%A4%96+65%2B+%D8%A3%D9%85%D8%B1+%D8%B0%D9%83%D8%A7%D8%A1+%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A;%F0%9F%9A%80+%D8%A3%D8%AF%D8%A7%D8%A1+%D8%B9%D8%A7%D9%84%D9%8A+%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1+%D8%AA%D8%A7%D9%85" alt="Typing SVG" />
-</a>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ORACLE%20V3&fontSize=70&fontColor=00fff2&fontAlignY=38&desc=البوت%20السيبراني%20الأقوى%20على%20واتساب&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 ![Version](https://img.shields.io/badge/VERSION-3.0.0-0f0c29?style=for-the-badge&labelColor=000000&color=00fff2)
 ![Node](https://img.shields.io/badge/NODE.JS-≥18-0f0c29?style=for-the-badge&labelColor=000000&color=8A2BE2&logo=nodedotjs&logoColor=8A2BE2)
@@ -22,7 +16,7 @@
 
 <br/>
 
-<img src="https://i.postimg.cc/HxjS4qx2/aa58a61ac0b2d8c8d768ff8b86edd273.jpg" alt="DRAKON V3" width="480" style="border-radius: 16px; box-shadow: 0 0 40px #00fff2;"/>
+<img src="https://i.postimg.cc/HxjS4qx2/aa58a61ac0b2d8c8d768ff8b86edd273.jpg" alt="ORACLE V3" width="480" style="border-radius: 16px; box-shadow: 0 0 40px #00fff2;"/>
 
 <br/><br/>
 
@@ -42,18 +36,11 @@
 
 ## ⚡ المميزات
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### ⚙️ الأساسيات
 - **هيكل برمجي سلس** — بوت مصمم ليكون بسيطاً، قوياً، ومستقراً
 - **قائمة أزرار تفاعلية** ديناميكية عبر `menu_builder.js`، مع تراجع تلقائي لنص عادي لو فشلت الأزرار
 - **زر "تنصيب" مدمج** — اضغط زر واحد من القائمة الرئيسية لتنصيب نسخة فرعية من البوت فوراً
 - **سرعة استجابة عالية** ومرونة كاملة في التعديل
-
-</td>
-<td width="50%" valign="top">
 
 ### 🧩 حزمة الأوامر (+65 أمر)
 - 🤖 **ذكاء اصطناعي** — شات بوتات AI، توليد وتحويل صور
@@ -61,10 +48,6 @@
 - 🎌 **أنمي** — متابعة تلقائية لحلقات جديدة
 - 📸 **محتوى عشوائي** — صور وفيديوهات متنوعة
 - 🎊 **تسلية** — حقيقة أو تحدي، تأملات يومية
-
-</td>
-</tr>
-</table>
 
 📚 **مكتبات مدمجة إضافية** من `lib-bode`: تحويل ورفع الملصقات، رفع صور/ملفات، تكامل Google Drive، MongoDB، نظام مستويات (Levelling)، وغيرها كأدوات جاهزة للاستخدام.
 
@@ -116,8 +99,6 @@ export LOLHUMAN_APIKEY="مفتاحك_هنا"
 
 ## 📜 نظرة عامة على الأوامر
 
-<div align="center">
-
 | القسم | الوصف | أمثلة |
 |:---:|:---|:---|
 | 🤖 **الذكاء الاصطناعي** | شات بوتات AI، توليد وتحويل صور | `.ai4chat` `.toanime` `.tofigure` `.nanobanana` |
@@ -127,8 +108,6 @@ export LOLHUMAN_APIKEY="مفتاحك_هنا"
 | 🎊 **التسلية** | ألعاب وتفاعل بسيط | `.truth` `.renungan` `.senja` |
 | 🛠️ **الأدوات** | أدوات عامة للبوت | `.تنصيب` `.kill` |
 | 🔗 **الروابط** | إدارة روابط البوت | `.الروابط` `.تعديل_رابط` |
-
-</div>
 
 > 💡 استخدم الأمر `.menu` أو الضغط على زر القائمة لعرض كل الأقسام والأوامر بالتفصيل مع الأمثلة.
 
@@ -168,9 +147,7 @@ export LOLHUMAN_APIKEY="مفتاحك_هنا"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=30&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%8F%A4%CD%9F%CD%9F%CD%9E%F0%9D%90%8B%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D%20%F0%9D%90%84%F0%9D%90%92%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8D%F0%9D%9B%A9%F0%9D%90%91%E2%98%80%EF%B8%8E" />
-
-### **𝐄𝐒𝐂𝐀𝐍𝐎𝐑 𝐕𝟑** — كل الحقوق محفوظة
+### **𝐎𝐑𝐀𝐂𝐋𝐄 𝐕𝟑** — كل الحقوق محفوظة
 
 <br/>
 
@@ -191,5 +168,5 @@ export LOLHUMAN_APIKEY="مفتاحك_هنا"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 <div align="center">
-<sub>مبني بـ 🖤 بواسطة ⏤͟͟͞𝐋𝐨𝐫𝐝 𝐄𝐒𝐂𝐀𝐍𝛩𝐑☀︎</sub>
+<sub>مبني بـ 🖤 بواسطة 𝐋𝐨𝐫𝐝 𝐄𝐒𝐂𝐀𝐍𝛩𝐑☀︎</sub>
 </div>
